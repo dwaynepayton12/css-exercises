@@ -1,0 +1,14 @@
+p {
+    background-color: lightcoral;
+    font-family: Verdana, Dejavu sans, sans-serif;
+}
+
+.child {
+    color: blue;
+    font-size: 36px;
+}
+.Number{
+    background-color: lightcoral;
+    font-family: Verdana, Dejavu sans, sans-serif;
+    font-size: 24px;
+}
